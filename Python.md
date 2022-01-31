@@ -25,3 +25,9 @@
   }
 }
 ```
+pip3 install debugpy
+https://dev.to/iggredible/debugging-in-vim-with-vimspector-4n0m
+
+https://github.com/microsoft/debugpy/wiki/Debug-configuration-settings
+
+https://github.com/puremourning/vimspector#human-mode
